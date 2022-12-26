@@ -1,0 +1,11 @@
+﻿  DEM-MPS_ship-wall_seitei-initial.cpp
+D:\DEMPS\Multi-makeinitial\Sorce\ship-seiteiwall\ship-seiteiwall\DEM-MPS_ship-wall_seitei-initial.cpp(40,8): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\DEMPS\Multi-makeinitial\Sorce\ship-seiteiwall\ship-seiteiwall\DEM-MPS_ship-wall_seitei-initial.cpp(44,30): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\DEMPS\Multi-makeinitial\Sorce\ship-seiteiwall\ship-seiteiwall\DEM-MPS_ship-wall_seitei-initial.cpp(97,8): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+D:\DEMPS\Multi-makeinitial\Sorce\ship-seiteiwall\ship-seiteiwall\DEM-MPS_ship-wall_seitei-initial.cpp(101,30): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  コード生成しています。
+  1 of 316 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  ship-seiteiwall.vcxproj -> D:\DEMPS\Multi-makeinitial\Sorce\ship-seiteiwall\x64\Release\ship-seiteiwall.exe

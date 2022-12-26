@@ -1,0 +1,13 @@
+﻿  binary_to_ascii.cpp
+D:\DEMPS\Multi-makeinitial\Sorce\BinaryToAscii\BinaryToAscii\binary_to_ascii.cpp(47,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+D:\DEMPS\Multi-makeinitial\Sorce\BinaryToAscii\BinaryToAscii\binary_to_ascii.cpp(63,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\DEMPS\Multi-makeinitial\Sorce\BinaryToAscii\BinaryToAscii\binary_to_ascii.cpp(64,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\DEMPS\Multi-makeinitial\Sorce\BinaryToAscii\BinaryToAscii\binary_to_ascii.cpp(65,13): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\DEMPS\Multi-makeinitial\Sorce\BinaryToAscii\BinaryToAscii\binary_to_ascii.cpp(92,11): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\DEMPS\Multi-makeinitial\Sorce\BinaryToAscii\BinaryToAscii\binary_to_ascii.cpp(107,22): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  146 of 155 functions (94.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  BinaryToAscii.vcxproj -> D:\DEMPS\Multi-makeinitial\Sorce\BinaryToAscii\x64\Release\BinaryToAscii.exe
